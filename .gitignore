@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 key.csv
+/db/employees.sql
 
 # Virtual environments
 .venv
